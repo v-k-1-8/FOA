@@ -1,16 +1,6 @@
-# hotel_booking_site
-
-A new Flutter project.
-
+# Food Ordering App
+A personal Project based on Flutter and Firebase.
 ## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+User can login through either phone number or by using google account (Google Auth)
+Limited food items can be ordered from listed reasautent of Roorkee whose Data can be stored in Firebase backend
+Application is a prototype of a food ordering app currently supprting user (buyer) login and further store login can be integrated with security setup to make it enable as fully working application.
